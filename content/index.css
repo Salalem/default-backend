@@ -132,7 +132,7 @@ h2 {
 }
 
 img {
-  z-index: 3;
+  z-index: 10;
   position: absolute;
   top: 90%;
   left: 50%;
