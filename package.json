@@ -13,7 +13,7 @@
   "author": "Jeremy Shimko <jeremy.shimko@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "4.15.0"
+    "eslint": "4.18.2"
   },
   "dependencies": {
     "express": "4.16.2"
